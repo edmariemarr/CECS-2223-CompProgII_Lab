@@ -20,24 +20,18 @@ int main() {
 	box1.setLength(20);
 	// declare a Box object, named box2, whose height is 7
 	// use the appropriate parametrized constructor
-	Box box2;
-	box2.setHeight(7);
+	Box box2(7);
 	// assign a width of 5, length of 10 to box2
 	box2.setWidth(5);
 	box2.setLength(10);
 	// declare a Box object, named box3, whose height is 3 and width is 4
 	// use the appropriate parametrized constructor
-	Box box3;
-	box3.setHeight(3);
-	box3.setWidth(4);
+	Box box3(3, 4);
 	// assign a length of 12 to box3
 	box3.setLength(12);
 	// declare a Box object, named box4, whose height is 20 and width is 10
 	// and length is 5; use the appropriate parametrized constructor
-	Box box4;
-	box4.setHeight(20);
-	box4.setWidth(10);
-	box4.setLength(5);
+	Box box4(20, 10, 5);
 
 	printf("The boxes created have the following dimensions:\n");
 	printf("%7s%7s%7s%7s%6s\n", "HEIGHT", "WIDTH", "LENGTH", "VOLUME", "AREA"); // table headers
