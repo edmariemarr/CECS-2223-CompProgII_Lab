@@ -1,10 +1,9 @@
 /*
 	CECS 2223, Computer Programming II Lab
-	Winter 2020, Sec. 05
+	Winter 2020
 	Date: November 25, 2020
 	Topic: OOD Review
 	File name: Cylinder.cpp
-	Name: EDMARIE RODRIGUEZ MARRERO, ID#132704
 	Define the Cylinder class
 */
 

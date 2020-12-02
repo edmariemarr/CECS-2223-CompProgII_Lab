@@ -1,10 +1,9 @@
 /*
 	CECS 2223, Computer Programming II Lab
-	Winter 2020, Sec. 05
+	Winter 2020
 	Date: November 25, 2020
 	Topic: OOD Review
 	File name: lab02.cpp
-	Name: EDMARIE RODRIGUEZ MARRERO, ID#132704
 	Complete the C++ code as required
 */
 // write the required include statement
@@ -42,7 +41,7 @@ int main() {
 	// "Program developed by [YOUR NAME], ID#[YOUR ID NUMBER]"
 	// where the square brackets and the text within is substituted with
 	// your personal information.
-	printf("Program developed by EDMARIE RODRIGUEZ MARRERO, ID#132704\n");
+	printf("Program developed by EDMARIE RODRIGUEZ MARRERO.\n");
 
 	system("pause"); // for Visual Studio use only
 	return 0; // this statement MUST be included at the end of main
